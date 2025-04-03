@@ -1,4 +1,4 @@
-<h1 align="center">💬 Testimonial Slider 💬</h1>
+<h1 align="center">💬 Testimonial Loop 💬</h1>
 
 <p align="center">
   <strong>A dynamic and responsive testimonial slider built with HTML, CSS, and JavaScript.</strong>
